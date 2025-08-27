@@ -13,7 +13,7 @@ public class Food {
 
     public static Color[] COLOR = {
             red, // eto morkovka
-            green,
+            green, // eto kapusta
             blue,
             yellow 
     };
