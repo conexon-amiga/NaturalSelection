@@ -8,7 +8,7 @@ public class Food {
     public boolean toBeDeleted;
 
     public static Color[] COLOR = {
-            new Color(255, 100, 100),
+            new Color(255, 100, 100), // eto morkovka
             new Color(200, 200, 100),
             new Color(50, 150, 50),
             new Color(100, 150, 200),
